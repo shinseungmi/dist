@@ -9,7 +9,7 @@ botocore==1.12.189
 cachetools==3.1.1
 certbot==0.28.0
 certbot-apache==0.28.0
-certifi==2019.6.16
+certifi==2022.12.7
 cffi==1.12.3
 chardet==3.0.4
 Click==7.0
